@@ -1,6 +1,6 @@
 # SkyTracker CLI
 
-![SkyTracker CLI Screenshot](./skytracker_screenshot.png)
+![SkyTracker CLI Screenshot](./skytracker_screenshot.jpg)
 
 Welcome to **SkyTracker CLI**! This command-line weather app, built in Python, provides fast, accurate weather information right from your terminal. Designed to be efficient and straightforward, SkyTracker CLI brings essential weather insights to users in a simple and accessible format.
 
