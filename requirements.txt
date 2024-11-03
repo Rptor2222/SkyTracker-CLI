@@ -1,0 +1,13 @@
+geopy
+pandas
+retry-requests
+openmeteo_requests
+requests_cache
+datetime
+pytz
+pyfiglet
+survey
+pytz
+timezonefinder
+requests
+termcolor
